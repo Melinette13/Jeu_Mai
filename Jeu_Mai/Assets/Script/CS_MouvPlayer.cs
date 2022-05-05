@@ -11,7 +11,7 @@ public class CS_MouvPlayer : MonoBehaviour
     public CharacterController player;
 
     public float jumpHeight = 1.0f;
-    private float gravity = -9.81f;
+    private float gravity = -19.62f;
 
     public bool isGrounded;
     public LayerMask groundMask;
